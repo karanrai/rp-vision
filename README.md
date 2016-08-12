@@ -1,7 +1,7 @@
 # rp-vision
 An evolving document to aggregate our learning from Software craftsmanship over time
 
-# Red Panda Vision and Strategy document
+# Red Panda Vision document
 
 Red Panda Innovation Labs is a team of software craftsmen who care deeply about the software they write and the products they develop. The founders of Red Panda came together because they loved creating software which could solve real business problems thereby creating value for the organisation Red Panda is creating software for, and, capturing part of the value as project development fee and / or equity in the product.
 
